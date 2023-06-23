@@ -22,7 +22,7 @@ git clone https://github.com/your-username/real-time-face-and-eye-detection.git
 2. Navigate to the project directory:
 
 ```
-cd real-time-face--and-eye-detection
+cd real-time-face-and-eye-detection
 ```
 
 3. Run the script:
